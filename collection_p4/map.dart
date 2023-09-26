@@ -5,7 +5,6 @@ var gifts = {
   'second': 'turtledoves',
   'fifth': 1
 };
-
 var nobleGases = {
   2: 'helium',
   10: 'neon',
